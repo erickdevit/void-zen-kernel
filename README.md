@@ -18,6 +18,8 @@ Inclui:
 * Kernel Zen
 * Headers correspondentes
 
+Release: https://github.com/erickdevit/void-zen-kernel/releases/download/v6.18.7-zen/
+
 ---
 
 ## Verificação de integridade (recomendado)
