@@ -1,4 +1,4 @@
-# Void Linux – Zen Kernel (Custom Build)
+# Void Linux – Zen Kernel (Custom Build para Void Linux glibc x86_64)
 
 Kernel Zen compilado manualmente para **Void Linux**, disponibilizado via **GitHub Releases**.
 
