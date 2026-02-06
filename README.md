@@ -83,7 +83,7 @@ reboot
 
 É possível adicionar este kernel como um **repositório xbps remoto**, permitindo instalação via URL.
 
-> ⚠️ Observação: este método **não oferece atualizações automáticas** como um repositório oficial, mas facilita a instalação sem download manual.
+>  Observação: este método **não oferece atualizações automáticas** como um repositório oficial, mas facilita a instalação sem download manual.
 
 #### 1. Criar arquivo de repositório
 
@@ -166,24 +166,12 @@ hostdir/binpkgs/
 
 ---
 
-## ℹ️ Observações
-
-* Este **não é um repositório oficial do Void Linux**
-* Receita fornecida para fins educacionais e reprodutibilidade
-* Binários são disponibilizados apenas via *GitHub Releases*
-
----
-
 ## Autor
 
 **erickdevit**
 Unidos pelo Tux 🐧
 
 ---
-
-## Licença
-
-O kernel Linux é distribuído sob a **GPLv2**. Este repositório apenas redistribui binários compilados.
 
 ## Build e uso
 
