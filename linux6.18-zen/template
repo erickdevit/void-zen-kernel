@@ -22,7 +22,7 @@ checksum="9106a4605da9e31ff17659d958782b815f9591ab308d03b0ee21aad6c7dced4b
 1a89d0952d52f5a0114f9f3058e6c07ab2789941dc05d67befa277c8a9f265c4
 6756dbcf8609f37893386b0f52e938739eed969bfb07a890717c381283a565d7"
 python_version=3
-archs="x86_64* i686* aarch64*"
+archs="x86_64"
 nodebug=yes
 nostrip=yes
 noverifyrdeps=yes
